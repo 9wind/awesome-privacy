@@ -346,7 +346,7 @@ It features small explicit keys, no config options, and UNIX-style composability
 ˙ 
 
 		</details>
-- **[<img src='https://avatars.githubusercontent.com/u/171401041' width='16' height='16' alt='icon' /> Picocrypt](None)** - Picocrypt is a very small (hence Pico), very simple, yet very secure encryption tools
+- **[<img src='https://avatars.githubusercontent.com/u/171401041' width='16' height='16' alt='icon' /> Picocrypt](https://github.com/Picocrypt/Picocrypt)** - Picocrypt is a very small (hence Pico), very simple, yet very secure encryption tools
 that you can use to protect your files. It's designed to be the go-to tool for encryption, 
 with a focus on security, simplicity, and reliability.
 […](https://awesome-privacy.xyz/essentials/file-encryption/picocrypt "View full Picocrypt report") 
